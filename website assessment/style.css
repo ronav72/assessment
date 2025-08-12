@@ -9,8 +9,8 @@ html {
 /* Entire Body CSS */
 body {
     margin: 0;
-    height: 100vh;
- background: url('C:/Users/23262/OneDrive - Mt Roskill Grammar School/Pictures/chew.jpeg') bottom center no-repeat,
+    height: 100px;
+ background: url('chew.jpeg') bottom center no-repeat,
                 url('images/back.jpg') top center no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -281,3 +281,4 @@ footer{
 @media only screen and (max-width: 300px) {
 .prev, .next, .text {font-size: 11px}
 }
+
